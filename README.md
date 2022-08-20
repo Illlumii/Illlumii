@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Santos sou estudante de desenvolvimento de Sistemas!
+### Olá! Eu sou Gabriel sou estudante de desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/Illlumii">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=illlumii&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
